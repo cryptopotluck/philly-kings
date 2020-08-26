@@ -1,15 +1,15 @@
 # Philly Kings Project & Tutorial
 
+[Test the HTML Website](https://cryptopotluck.github.io/philly-kings/)
 
 [Find the Full Tutorial on the Potluck App](http://pipinstallpython.com:8000/)
 
 [Need Help? Jump into the Python Discord](http://pipinstallpython.com:8000/)
 
-![bage1](https://img.shields.io/github/issues/cryptopotluck/Covid-19-Dash-Map)
-![bage1](https://img.shields.io/github/issues/cryptopotluck/Covid-19-Dash-Map)
-![bage1](https://img.shields.io/github/issues/cryptopotluck/Covid-19-Dash-Map)
-![bage1](https://img.shields.io/github/issues/cryptopotluck/Covid-19-Dash-Map)
-![bage1](https://img.shields.io/github/issues/cryptopotluck/Covid-19-Dash-Map)
+![bage1](https://img.shields.io/github/issues/cryptopotluck/philly-kings)
+![bage2](https://img.shields.io/github/forks/cryptopotluck/philly-kings)
+![bage3](https://img.shields.io/github/stars/cryptopotluck/philly-kings)
+![bage4](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCPotluck)
 
 
 ![Philly_Demo2](assets/readme/site_demo_1.png "Logo Title Text 1")
