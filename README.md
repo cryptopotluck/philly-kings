@@ -21,7 +21,7 @@ I streamed the lesson & I was able to get the project built custom in 3h worth o
 
 I saved $646 on the project by building without a middle men.
 
-##What is included in this Project
+## What is included in this Project
 1. Simple Real Project Template
 2. Base Starter Template
 2. Google Analytics Setup Tutorial
@@ -30,7 +30,7 @@ I saved $646 on the project by building without a middle men.
 5. Custom Photo Editing 
 
 
-###2020 Research Findings on HTML Hosting
+### 2020 Research Findings on HTML Hosting
 Wix
 ---
 Cost: $792 / 3 Years
