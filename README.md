@@ -24,7 +24,7 @@ I saved $646 on the project by building without a middle men.
 ## What is included in this Project
 1. Simple Real Project Template
 2. Base Starter Template
-2. Google Analytics Setup Tutorial ![Private Video](https://pipinstallpython.com)
+2. Google Analytics Setup Tutorial [Private Video](https://pipinstallpython.com)
 3. How to Add Custom Scripts
 4. Custom CSS
 5. Custom Photo Editing 
@@ -50,7 +50,7 @@ Nas
 
 [Creative Tim](https://www.creative-tim.com/)
 
-[Template I Downloaded]('http://www.mashup-template.com/templates.html')
+[Template I Downloaded](http://www.mashup-template.com/templates.html)
 
 
 
