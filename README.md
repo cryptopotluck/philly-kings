@@ -2,9 +2,9 @@
 
 [Test the HTML Website](https://cryptopotluck.github.io/philly-kings/)
 
-[Find the Full Tutorial on the Potluck App](http://pipinstallpython.com:8000/)
+[Find the Full Tutorial on the Potluck App](https://pipinstallpython.com)
 
-[Need Help? Jump into the Python Discord](http://pipinstallpython.com:8000/)
+[Need Help? Jump into the Python Discord](https://discord.gg/V5Wenh4)
 
 ![bage1](https://img.shields.io/github/issues/cryptopotluck/philly-kings)
 ![bage2](https://img.shields.io/github/forks/cryptopotluck/philly-kings)
@@ -24,7 +24,7 @@ I saved $646 on the project by building without a middle men.
 ## What is included in this Project
 1. Simple Real Project Template
 2. Base Starter Template
-2. Google Analytics Setup Tutorial
+2. Google Analytics Setup Tutorial ![Private Video](https://pipinstallpython.com)
 3. How to Add Custom Scripts
 4. Custom CSS
 5. Custom Photo Editing 
@@ -49,6 +49,8 @@ Nas
 [BootStrap Templates](https://themes.getbootstrap.com/)
 
 [Creative Tim](https://www.creative-tim.com/)
+
+[Template I Downloaded]('http://www.mashup-template.com/templates.html')
 
 
 
